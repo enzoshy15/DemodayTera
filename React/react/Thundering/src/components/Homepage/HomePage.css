@@ -1,0 +1,16 @@
+body {
+  width: 100vw;
+  display: block;
+  margin: 0;
+  padding: 0;
+  background-color: rgba(128, 128, 128, 0.59);
+  background-position-y: 200%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.navbar {
+  --bs-navbar-padding-y: 2.6rem;
+}

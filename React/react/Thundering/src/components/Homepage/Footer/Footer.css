@@ -1,0 +1,17 @@
+footer {
+    background-color: rgba(57, 57, 57, 0.785);
+}
+
+.fixar-rodape {
+    color: black;
+    border-top: 1px solid #000000;
+    bottom: 0;
+    left: 0;
+    height: 40px;
+    position: fixed;
+    width: 100%;
+}
+
+.bi-github {
+    margin-right: 40px;
+}
